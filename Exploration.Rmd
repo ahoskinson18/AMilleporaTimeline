@@ -1,0 +1,10 @@
+---
+title: "Exploration"
+author: "Aidan Hoskinson"
+output: github_document
+---
+
+```{r}
+install.packages("BiocManager")
+install.packages("tidyverse")
+```
