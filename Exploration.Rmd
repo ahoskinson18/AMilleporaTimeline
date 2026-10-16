@@ -9,3 +9,11 @@ install.packages("BiocManager")
 install.packages("tidyverse")
 install.packages("ggplot2")
 ```
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+MaxQuantOne <- read_tsv("MaxQuant/MaxQuantOne.tabular")
+```
