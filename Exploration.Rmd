@@ -7,4 +7,5 @@ output: github_document
 ```{r}
 install.packages("BiocManager")
 install.packages("tidyverse")
+install.packages("ggplot2")
 ```
